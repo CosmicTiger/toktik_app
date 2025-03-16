@@ -43,3 +43,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Assets that are too large to save in github 
+/assets/videos/*.mp4
